@@ -2,7 +2,7 @@
 """uvi.py -- based interactive uv init script"""
 
 # /// script
-# requires-python = ">=3.13"
+# requires-python = ">=3.10"
 # dependencies = [
 #     "rich>=13.9.4",
 # ]
